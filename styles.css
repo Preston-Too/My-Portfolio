@@ -47,3 +47,19 @@ nav a:hover{
     padding-left:15px;
     font-weight: bolder;
 }
+h2{
+    text-align: center;
+    color: purple;
+    font-size: 30px;
+    
+}
+.About{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.About p{
+    font-size: 20px;
+    padding-left: 15px;
+    margin-top: 0px;
+}
