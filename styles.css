@@ -1,7 +1,5 @@
-/* body{
-   background-image: url(/images/screen-post-unsplash.jpg); 
-   background-repeat: no-repeat;
-   background-size: 100% 1000px; */
+body{
+    background-color: darkgrey;
 }
 h1{
     text-align: center;
