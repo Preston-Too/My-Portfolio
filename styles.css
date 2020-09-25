@@ -1,1 +1,30 @@
-
+h1{
+    text-align: center;
+    color: purple;
+}
+nav{
+    width: 100%;
+    background-color:blue;
+    overflow: auto;
+}
+ul{
+    margin: 0 0 0 150px;
+    list-style: none;
+}
+li{
+    float: left;
+}
+nav a{
+    width: 100px;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+nav a:hover{
+    background: black;
+    transition: 0.5s;
+    text-transform: uppercase;
+}
