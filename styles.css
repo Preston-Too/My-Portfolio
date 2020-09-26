@@ -63,3 +63,24 @@ h2{
     padding-left: 15px;
     margin-top: 0px;
 }
+.main-column{
+    text-align: center;
+
+}
+.main-column p{
+    font-size: 20px;
+}
+#column{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+}
+.greenwave{
+    margin-right: 15px;
+
+}
+.mtalii{
+    margin-left: 15px;
+    
+}
+
