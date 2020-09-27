@@ -10,7 +10,7 @@ nav{
     background-color:blue;
     overflow: auto;
 }
-ul{
+.nav ul{
     margin: 0 0 0 150px;
     list-style: none;
 }
