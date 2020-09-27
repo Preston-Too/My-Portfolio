@@ -14,7 +14,7 @@ ul{
     margin: 0 0 0 150px;
     list-style: none;
 }
-li{
+.nav li{
     float: left;
 }
 nav a{
@@ -83,4 +83,5 @@ h2{
     margin-left: 15px;
     
 }
+
 
